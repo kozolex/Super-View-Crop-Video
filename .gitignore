@@ -175,3 +175,5 @@ cython_debug/
 
 # Yolo Models
 *.pt
+# Video files
+ .mp4
